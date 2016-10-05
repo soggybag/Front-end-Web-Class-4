@@ -1,6 +1,136 @@
 # Front-end-web-class-4
 
 
+## Class Competencies
+
+Students will: 
+
+- Use float and clear
+- Assess the box model
+- Layout elements 
+- Design your portfolio
+
+# Schedule 
+
+|   | Time   |    | Activity | Description|
+|---|--------|----|----------|------------|
+|  1|  5 mins|   5|        TT|The Box Model|
+|  2|  5 mins|  10|      Demo|Box model demo|
+|  3|  5 mins|   5|        TT|The Box Model|
+
+## 1 - The Box Model
+
+Elements that display as block take up space as a box on the screen. 
+I will use the block and box interchangably. 
+The total space a box fills follows a few rules. 
+
+- The dimensions of a box are determined by four features: 
+    - width and height
+    - padding
+    - border
+    - margin
+- The total width of a box is
+    - width + padding + border + margin-left + margin-right
+- The total height of a box is
+    - height + padding + border + margin-top + margin-bottom
+
+### Default Width and Height
+
+The width and height of a box follow some simple rules. 
+
+- The width of a box is the width of it's container
+    - Unless you set the width to a value
+- The height of a box is the height of it's content
+    - A box with no content is height 0
+
+### Padding
+
+Imagine padding as inside the box. Padding will include any background 
+color or background image assigned to a box.
+
+### Border
+
+Borders have three features:
+
+- style
+    - solid, dashed, double, etc.
+- Color
+- width
+
+### Margin 
+
+Margin does not display any background color or background image fill. 
+Think of margin as being outside the box. 
+
+Think of margins as pushing neighboring boxes away from each other.
+
+Horizontal margins add, while vertical margins overlap. 
+
+## 3 - Box model demo
+
+...
+
+## 4 - Float
+
+Float uses a completely different method to position elements on the screen. 
+Use float to layout pages where elements have to be positioned side by side. 
+
+You can use float to create many of the layouts you might imagine. 
+There are a few situations where float doesn't work. 
+For these use absolute or relative position, which we will talk about later.
+
+Float can also be used to wrap text around an image. 
+
+Elements can be floated left or right
+
+- float: left
+- float: right
+
+### Demo
+
+...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Absolute and relative position
+- Relative
+- Absolute
+- Relative ancestors 
+- left, top, right, and bottom
+- z-index
+
+Transform 
+- Translate 
+- Rotate
+- Scale
+- Skew
+
+
+
+
+
+Typography
+- San serif, Serif
+    - Fixed width vs variable width fonts
+- Baseline, x-height, cap-height
+- Line height and character spacing
+- Font weight
+- Web fonts
+    - Google fonts
+    - http://www.cssfontstack.com
+
+
 
 
 - Make a style guide (chose one or more the markup examples)

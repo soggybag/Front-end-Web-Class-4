@@ -1,0 +1,18 @@
+.flex-grid {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+    margin: 10px;
+    padding: 1em;
+}
+
+.flex-grid-thirds {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-grid-thirds .col {
+    width: 32%;
+}
