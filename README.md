@@ -148,10 +148,3 @@ look great. Always use a grid!
 
 
 
-
-
-
-
-
-
-
