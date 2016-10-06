@@ -14,9 +14,13 @@ Students will:
 
 |   | Time   |    | Activity | Description|
 |---|--------|----|----------|------------|
-|  1|  5 mins|   5|        TT|The Box Model|
-|  2|  5 mins|  10|      Demo|Box model demo|
-|  3|  5 mins|   5|        TT|The Box Model|
+|  1|  5 mins|   5|        TT| The Box Model|
+|  2|  5 mins|  10|      Demo| Box model demo|
+|  3|  5 mins|  15|        TT| Float|
+|  4| 30 mins|  45|      Demo| Float Challenges|
+|  5| 10 mins|  55|     Break| |
+|  6|  5 mins|  70|        TT| Designing with a grid|
+|  7| 30 mins| 100|      Work| Sketch your portfolio using a grid|
 
 ## 1 - The Box Model
 
@@ -64,13 +68,38 @@ Think of margin as being outside the box.
 
 Think of margins as pushing neighboring boxes away from each other.
 
-Horizontal margins add, while vertical margins overlap. 
+Horizontal margins add, while vertical margins overlap.
 
-## 3 - Box model demo
+### Percent sizes 
+
+You can set the size of an element in %. This unit is a percent 
+of the parent element. For example 
+
+`width:50%` 
+
+Sets the width of an element to 50% of the width of the parent element. 
+
+### calc()
+
+Use calc() to apply simple mathematical calculations to your 
+CSS values. Calc() supports: +, -, *, and /. 
+
+The beauty of calc() is it allows you to mix units! For example:
+
+`calc(100% - 2em)`
+
+or 
+
+`calc(200px - 1em * 2)`
+
+Consider how the box model works, then think about calc() and 
+how it can solve some of the situations 
+
+## 2 - Box model demo
 
 ...
 
-## 4 - Float
+## 3 - Float
 
 Float uses a completely different method to position elements on the screen. 
 Use float to layout pages where elements have to be positioned side by side. 
@@ -90,6 +119,31 @@ Elements can be floated left or right
 
 ...
 
+## 4 - Float Challenges
+
+Do your best to recreate the challenges in: 
+[Float Challenges](Float Challenges)
+
+- [challenge-0.html](Float Challenges/challenge-0.html)
+- [challenge-1.html](Float Challenges/challenge-1.html)
+- [challenge-2.html](Float Challenges/challenge-2.html)
+- [challenge-3.html](Float Challenges/challenge-3.html)
+- [challenge-4.html](Float Challenges/challenge-4.html)
+- [challenge-5.html](Float Challenges/challenge-5.html)
+- [challenge-6.html](Float Challenges/challenge-6.html)
+
+Try your best to recreate these on your own. 
+Only look at the source code if you need help. 
+
+## 5 - Break 
+
+...
+
+## 6 - Designing on a grid
+
+Grid systems have been used in design for years and long predate 
+the internet and digital tools. Using a grid will make your designs
+look great. Always use a grid! 
 
 
 
@@ -101,67 +155,3 @@ Elements can be floated left or right
 
 
 
-
-
-Absolute and relative position
-- Relative
-- Absolute
-- Relative ancestors 
-- left, top, right, and bottom
-- z-index
-
-Transform 
-- Translate 
-- Rotate
-- Scale
-- Skew
-
-
-
-
-
-Typography
-- San serif, Serif
-    - Fixed width vs variable width fonts
-- Baseline, x-height, cap-height
-- Line height and character spacing
-- Font weight
-- Web fonts
-    - Google fonts
-    - http://www.cssfontstack.com
-
-
-
-
-- Make a style guide (chose one or more the markup examples)
-  - Identify each of the uniquely styled elements in your HTML document
-    - Use one or more of the projects from the previous class
-    - Separate the elements and create specimens in an HTML file
-      - Colors
-      - Default font style
-      - Heading
-      - Sub headings
-      - Call outs
-      - Block quote
-      - Image
-      - Header
-  - Define styles for common text content tags: 
-    - p, h1-6, blockquote, strong, em, a
-  - Challenge: Style form elements
-  - Challenge: Create a sample style guide page with code samples and specimens
-    - In order to create code samples in HTML you will to understand 
-      - HTML entities
-      - Code and pre tags
-- Create a style guide for the screenplay. 
-  - The best approach here is to use class names for things like: voice-over, screen direction, character name and other things that are specific to screen plays and don’t have an existing tag. 
-- Make some really great buttons
-  - Use the <button> tag and set the styles to make it look really cool
-  - Take a look at the button examples here and see if you can recreate them or make your own version: [https://www.freshdesignweb.com/css3-buttons/](https://www.freshdesignweb.com/css3-buttons/) to recreate these you will need more CSS than we have covered so far, that’s okay, try it on your own and push yourself.  
-
-## Resources
-
-- [http://styleguides.io](http://styleguides.io)
-- [http://alistapart.com/article/creating-style-guides](http://alistapart.com/article/creating-style-guides)
-- [https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H][https://www.youtube.com/watch?v=x_0rE6ovWCI&list=PLoN_ejT35AEj4HJOkJK7nr4prSN0ZRT3H]
-- Investigate font pairs that work together: [http://fontpair.co](http://fontpair.co)
-- Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
