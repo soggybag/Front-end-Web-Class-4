@@ -12,11 +12,13 @@ Students will:
 
 # Schedule 
 
-|   | Time   |    | Activity | Description|
-|---|--------|----|----------|------------|
-|  1|  5 mins|   5|        TT|The Box Model|
-|  2|  5 mins|  10|      Demo|Box model demo|
-|  3|  5 mins|   5|        TT|The Box Model|
+|   | Time   |    | Activity | Description   |
+|---|--------|----|----------|---------------|
+|  1|  5 mins|   5|        TT| The Box Model |
+|  2|  5 mins|  10|        TT| Float and Clear |
+|  3|  5 mins|  15|        TT| Designing with a grid|
+|  4| 30 mins|  45|      Work| Designing with a grid|
+
 
 ## 1 - The Box Model
 
@@ -66,7 +68,9 @@ Think of margins as pushing neighboring boxes away from each other.
 
 Horizontal margins add, while vertical margins overlap. 
 
-## 3 - Box model demo
+## 2 - The grid 
+
+## 3 - 
 
 ...
 
