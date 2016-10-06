@@ -145,6 +145,38 @@ Grid systems have been used in design for years and long predate
 the internet and digital tools. Using a grid will make your designs
 look great. Always use a grid! 
 
+Take a look at one these sites below and look for designs that
+you like. Identify the grid system used. 
+
+- [Dribbble](https://dribbble.com/search?q=grid)
+- [Pinterest](https://www.pinterest.com/search/pins/?q=web%20design%20grid&rs=typed&term_meta[]=web%7Ctyped&term_meta[]=design%7Ctyped&term_meta[]=grid%7Ctyped)
+- [Behance](https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=webdesign)
+
+### Sketching your design
+
+After absolrbing some ideas and getting a feel for how grids 
+are used in design start designing your own site using a grid. 
+You can use Sketch, or draw/sketch your designs on paper. 
+
+If you like, print a grid on paper and use that. Here are a few
+PDFs.
+
+[960-Grid](https://github.com/nathansmith/960-Grid-System/tree/master/sketch_sheets)
+
+## Projects and Challenges
+
+- Sketch some ideas for your portfolio site
+    - These can just be done in Sketch, or on paper at this stage.
+    - Don't draw just one design draw at least three! More if you can. 
+- Redesign the App page you made earlier using a grid.
+- Finish applying CSS styles to your other projects:
+    - Tip Calculator
+    - Timer
+
+
+
+
+
 
 
 
