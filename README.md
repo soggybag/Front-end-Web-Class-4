@@ -173,7 +173,9 @@ PDFs.
     - Tip Calculator
     - Timer
 
+## Resources 
 
+- [Front End Web Playlist](https://goo.gl/z5fGaR) Watch videos 13 - 26
 
 
 
